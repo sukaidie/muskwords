@@ -1,0 +1,132 @@
+{
+  "will": {
+    "zh": "将要；会",
+    "level": "A1",
+    "phonetic": "/wɪl/"
+  },
+  "address": {
+    "zh": "处理；解决；地址",
+    "level": "B1",
+    "phonetic": "/əˈdres/"
+  },
+  "what": {
+    "zh": "什么",
+    "level": "A1",
+    "phonetic": "/wʌt/"
+  },
+  "is": {
+    "zh": "是（be 的第三人称单数）",
+    "level": "A1",
+    "phonetic": "/ɪz/"
+  },
+  "love": {
+    "zh": "爱；喜爱",
+    "level": "A1",
+    "phonetic": "/lʌv/"
+  },
+  "baby": {
+    "zh": "婴儿；宝贝",
+    "level": "A1",
+    "phonetic": "/ˈbeɪbi/"
+  },
+  "don't": {
+    "zh": "不要；不（do not 的缩写）",
+    "level": "A1",
+    "phonetic": "/doʊnt/"
+  },
+  "hurt": {
+    "zh": "伤害；使疼痛",
+    "level": "A2",
+    "phonetic": "/hɜːrt/"
+  },
+  "me": {
+    "zh": "我（宾格）",
+    "level": "A1",
+    "phonetic": "/miː/"
+  },
+  "terafab": {
+    "zh": "Terafab（专有名称，芯片制造项目）",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "moving": {
+    "zh": "移动；推进（move 的现在分词）",
+    "level": "A2",
+    "phonetic": "/ˈmuːvɪŋ/"
+  },
+  "fast": {
+    "zh": "迅速地；快速的",
+    "level": "A1",
+    "phonetic": "/fæst/"
+  },
+  "seldon": {
+    "zh": "谢顿（科幻作品人物姓氏）",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "psychohistory": {
+    "zh": "心理史学（科幻概念）",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "true": {
+    "zh": "真实的；确实如此",
+    "level": "A1",
+    "phonetic": "/truː/"
+  },
+  "but": {
+    "zh": "但是",
+    "level": "A1",
+    "phonetic": "/bʌt/"
+  },
+  "the": {
+    "zh": "这；那（定冠词）",
+    "level": "A1",
+    "phonetic": "/ðə/"
+  },
+  "cybertruck": {
+    "zh": "Cybertruck（特斯拉皮卡车型）",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "fleet": {
+    "zh": "车队；船队",
+    "level": "B2",
+    "phonetic": "/fliːt/"
+  },
+  "be": {
+    "zh": "是；成为",
+    "level": "A1",
+    "phonetic": "/biː/"
+  },
+  "around": {
+    "zh": "在周围；存在；大约",
+    "level": "A2",
+    "phonetic": "/əˈraʊnd/"
+  },
+  "for": {
+    "zh": "为了；持续（某段时间）",
+    "level": "A1",
+    "phonetic": "/fɔːr/"
+  },
+  "a": {
+    "zh": "一个（不定冠词）",
+    "level": "A1",
+    "phonetic": "/ə/"
+  },
+  "long": {
+    "zh": "长的；长时间的",
+    "level": "A1",
+    "phonetic": "/lɔːŋ/"
+  },
+  "time": {
+    "zh": "时间",
+    "level": "A1",
+    "phonetic": "/taɪm/"
+  },
+  "banger": {
+    "zh": "极棒的作品；很炸裂的东西（俚语）",
+    "level": "C1",
+    "phonetic": "/ˈbæŋər/"
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "metadata": {
+    "sourceLabel": "Elon Musk Archive · individually verified posts",
+    "policy": "仅统计经来源核对的 @elonmusk 原创帖子与回复，排除纯转发；不是全部历史帖子",
+    "coverage": "2026-11-06（仅已核对样本，不代表当天全部帖子）",
+    "lastBuilt": "2026-11-06",
+    "postCount": 6,
+    "wordCount": 26,
+    "tokenCount": 28,
+    "missingTranslations": 0
+  },
+  "posts": [
+    {
+      "id": "2118629834557718615",
+      "date": "2026-11-06",
+      "type": "reply",
+      "text": "Will address",
+      "source": "https://www.elonmuskarchive.org/posts/2118629834557718615",
+      "url": "https://x.com/elonmusk/status/2118629834557718615",
+      "verified": true
+    },
+    {
+      "id": "2118628232002158682",
+      "date": "2026-11-06",
+      "type": "original",
+      "text": "What is love? (Baby don’t hurt me)",
+      "source": "https://www.elonmuskarchive.org/posts/2118628232002158682",
+      "url": "https://x.com/elonmusk/status/2118628232002158682",
+      "verified": true
+    },
+    {
+      "id": "2118620772268990966",
+      "date": "2026-11-06",
+      "type": "original",
+      "text": "Terafab is moving fast",
+      "source": "https://www.elonmuskarchive.org/posts/2118620772268990966",
+      "url": "https://x.com/elonmusk/status/2118620772268990966",
+      "verified": true
+    },
+    {
+      "id": "2118629153390158000",
+      "date": "2026-11-06",
+      "type": "original",
+      "text": "Seldon, Psychohistory",
+      "source": "https://www.elonmuskarchive.org/posts/2118629153390158000",
+      "url": "https://x.com/elonmusk/status/2118629153390158000",
+      "verified": true
+    },
+    {
+      "id": "2118628806277951825",
+      "date": "2026-11-06",
+      "type": "reply",
+      "text": "True, but the Cybertruck fleet will be around for a long time",
+      "source": "https://www.elonmuskarchive.org/posts/2118628806277951825",
+      "url": "https://x.com/elonmusk/status/2118628806277951825",
+      "verified": true
+    },
+    {
+      "id": "2118595675374109154",
+      "date": "2026-11-06",
+      "type": "original",
+      "text": "Banger",
+      "source": "https://www.elonmuskarchive.org/posts/2118595675374109154",
+      "url": "https://x.com/elonmusk/status/2118595675374109154",
+      "verified": true
+    }
+  ],
+  "words": [
+    {
+      "word": "will",
+      "count": 2,
+      "postIds": [
+        "2118629834557718615",
+        "2118628806277951825"
+      ],
+      "zh": "将要；会",
+      "level": "A1",
+      "phonetic": "/wɪl/"
+    },
+    {
+      "word": "is",
+      "count": 2,
+      "postIds": [
+        "2118628232002158682",
+        "2118620772268990966"
+      ],
+      "zh": "是（be 的第三人称单数）",
+      "level": "A1",
+      "phonetic": "/ɪz/"
+    },
+    {
+      "word": "address",
+      "count": 1,
+      "postIds": [
+        "2118629834557718615"
+      ],
+      "zh": "处理；解决；地址",
+      "level": "B1",
+      "phonetic": "/əˈdres/"
+    },
+    {
+      "word": "what",
+      "count": 1,
+      "postIds": [
+        "2118628232002158682"
+      ],
+      "zh": "什么",
+      "level": "A1",
+      "phonetic": "/wʌt/"
+    },
+    {
+      "word": "love",
+      "count": 1,
+      "postIds": [
+        "2118628232002158682"
+      ],
+      "zh": "爱；喜爱",
+      "level": "A1",
+      "phonetic": "/lʌv/"
+    },
+    {
+      "word": "baby",
+      "count": 1,
+      "postIds": [
+        "2118628232002158682"
+      ],
+      "zh": "婴儿；宝贝",
+      "level": "A1",
+      "phonetic": "/ˈbeɪbi/"
+    },
+    {
+      "word": "don't",
+      "count": 1,
+      "postIds": [
+        "2118628232002158682"
+      ],
+      "zh": "不要；不（do not 的缩写）",
+      "level": "A1",
+      "phonetic": "/doʊnt/"
+    },
+    {
+      "word": "hurt",
+      "count": 1,
+      "postIds": [
+        "2118628232002158682"
+      ],
+      "zh": "伤害；使疼痛",
+      "level": "A2",
+      "phonetic": "/hɜːrt/"
+    },
+    {
+      "word": "me",
+      "count": 1,
+      "postIds": [
+        "2118628232002158682"
+      ],
+      "zh": "我（宾格）",
+      "level": "A1",
+      "phonetic": "/miː/"
+    },
+    {
+      "word": "terafab",
+      "count": 1,
+      "postIds": [
+        "2118620772268990966"
+      ],
+      "zh": "Terafab（专有名称，芯片制造项目）",
+      "level": "专有名词",
+      "phonetic": ""
+    },
+    {
+      "word": "moving",
+      "count": 1,
+      "postIds": [
+        "2118620772268990966"
+      ],
+      "zh": "移动；推进（move 的现在分词）",
+      "level": "A2",
+      "phonetic": "/ˈmuːvɪŋ/"
+    },
+    {
+      "word": "fast",
+      "count": 1,
+      "postIds": [
+        "2118620772268990966"
+      ],
+      "zh": "迅速地；快速的",
+      "level": "A1",
+      "phonetic": "/fæst/"
+    },
+    {
+      "word": "seldon",
+      "count": 1,
+      "postIds": [
+        "2118629153390158000"
+      ],
+      "zh": "谢顿（科幻作品人物姓氏）",
+      "level": "专有名词",
+      "phonetic": ""
+    },
+    {
+      "word": "psychohistory",
+      "count": 1,
+      "postIds": [
+        "2118629153390158000"
+      ],
+      "zh": "心理史学（科幻概念）",
+      "level": "专有名词",
+      "phonetic": ""
+    },
+    {
+      "word": "true",
+      "count": 1,
+      "postIds": [
+        "2118628806277951825"
+      ],
+      "zh": "真实的；确实如此",
+      "level": "A1",
+      "phonetic": "/truː/"
+    },
+    {
+      "word": "but",
+      "count": 1,
+      "postIds": [
+        "2118628806277951825"
+      ],
+      "zh": "但是",
+      "level": "A1",
+      "phonetic": "/bʌt/"
+    },
+    {
+      "word": "the",
+      "count": 1,
+      "postIds": [
+        "2118628806277951825"
+      ],
+      "zh": "这；那（定冠词）",
+      "level": "A1",
+      "phonetic": "/ðə/"
+    },
+    {
+      "word": "cybertruck",
+      "count": 1,
+      "postIds": [
+        "2118628806277951825"
+      ],
+      "zh": "Cybertruck（特斯拉皮卡车型）",
+      "level": "专有名词",
+      "phonetic": ""
+    },
+    {
+      "word": "fleet",
+      "count": 1,
+      "postIds": [
+        "2118628806277951825"
+      ],
+      "zh": "车队；船队",
+      "level": "B2",
+      "phonetic": "/fliːt/"
+    },
+    {
+      "word": "be",
+      "count": 1,
+      "postIds": [
+        "2118628806277951825"
+      ],
+      "zh": "是；成为",
+      "level": "A1",
+      "phonetic": "/biː/"
+    },
+    {
+      "word": "around",
+      "count": 1,
+      "postIds": [
+        "2118628806277951825"
+      ],
+      "zh": "在周围；存在；大约",
+      "level": "A2",
+      "phonetic": "/əˈraʊnd/"
+    },
+    {
+      "word": "for",
+      "count": 1,
+      "postIds": [
+        "2118628806277951825"
+      ],
+      "zh": "为了；持续（某段时间）",
+      "level": "A1",
+      "phonetic": "/fɔːr/"
+    },
+    {
+      "word": "a",
+      "count": 1,
+      "postIds": [
+        "2118628806277951825"
+      ],
+      "zh": "一个（不定冠词）",
+      "level": "A1",
+      "phonetic": "/ə/"
+    },
+    {
+      "word": "long",
+      "count": 1,
+      "postIds": [
+        "2118628806277951825"
+      ],
+      "zh": "长的；长时间的",
+      "level": "A1",
+      "phonetic": "/lɔːŋ/"
+    },
+    {
+      "word": "time",
+      "count": 1,
+      "postIds": [
+        "2118628806277951825"
+      ],
+      "zh": "时间",
+      "level": "A1",
+      "phonetic": "/taɪm/"
+    },
+    {
+      "word": "banger",
+      "count": 1,
+      "postIds": [
+        "2118595675374109154"
+      ],
+      "zh": "极棒的作品；很炸裂的东西（俚语）",
+      "level": "C1",
+      "phonetic": "/ˈbæŋər/"
+    }
+  ]
+}
