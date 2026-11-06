@@ -128,5 +128,3575 @@
     "zh": "极棒的作品；很炸裂的东西（俚语）",
     "level": "C1",
     "phonetic": "/ˈbæŋər/"
+  },
+  "to": {
+    "zh": "到；向；用于不定式",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "of": {
+    "zh": "……的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "in": {
+    "zh": "在……里面",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "i": {
+    "zh": "我",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "that": {
+    "zh": "那；那个；引导从句",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "and": {
+    "zh": "和；并且",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "are": {
+    "zh": "是（be 的复数形式）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "not": {
+    "zh": "不",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "we": {
+    "zh": "我们",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "have": {
+    "zh": "有；已经",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "you": {
+    "zh": "你；你们",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "it": {
+    "zh": "它",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "on": {
+    "zh": "在……上；关于",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "with": {
+    "zh": "和；带有",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "people": {
+    "zh": "人们",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "this": {
+    "zh": "这；这个",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "so": {
+    "zh": "所以；如此",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "they": {
+    "zh": "他们",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "if": {
+    "zh": "如果",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "would": {
+    "zh": "会；愿意",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "by": {
+    "zh": "由；通过；在……旁",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "an": {
+    "zh": "一个（元音前的不定冠词）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "there": {
+    "zh": "那里；有",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "think": {
+    "zh": "想；认为",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "good": {
+    "zh": "好的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "at": {
+    "zh": "在；于",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "all": {
+    "zh": "所有；全部",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "about": {
+    "zh": "关于；大约",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "as": {
+    "zh": "作为；像；因为",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "just": {
+    "zh": "仅仅；刚刚",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "like": {
+    "zh": "喜欢；像",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "was": {
+    "zh": "是（be 的过去式）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "my": {
+    "zh": "我的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "more": {
+    "zh": "更多",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "it's": {
+    "zh": "它是；它已经（缩写）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "has": {
+    "zh": "有（have 的第三人称单数）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "too": {
+    "zh": "也；太",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "no": {
+    "zh": "不；没有",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "he": {
+    "zh": "他",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "much": {
+    "zh": "很多；非常",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "can": {
+    "zh": "能；可以",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "when": {
+    "zh": "何时；当……时",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "their": {
+    "zh": "他们的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "one": {
+    "zh": "一；一个",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "some": {
+    "zh": "一些",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "were": {
+    "zh": "是（be 的过去式）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "i'm": {
+    "zh": "我是（I am 的缩写）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "then": {
+    "zh": "然后；那时",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "or": {
+    "zh": "或者",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "being": {
+    "zh": "是；处于（be 的现在分词）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "still": {
+    "zh": "仍然",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "first": {
+    "zh": "第一；首先",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "than": {
+    "zh": "比",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "because": {
+    "zh": "因为",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "many": {
+    "zh": "许多",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "other": {
+    "zh": "其他的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "know": {
+    "zh": "知道",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "why": {
+    "zh": "为什么",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "work": {
+    "zh": "工作；起作用",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "those": {
+    "zh": "那些",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "only": {
+    "zh": "仅仅",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "most": {
+    "zh": "最多；大多数",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "from": {
+    "zh": "从；来自",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "day": {
+    "zh": "天；白天",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "see": {
+    "zh": "看见；明白",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "any": {
+    "zh": "任何；一些",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "how": {
+    "zh": "如何；多么",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "years": {
+    "zh": "年（复数）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "do": {
+    "zh": "做；助动词",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "make": {
+    "zh": "制作；使",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "very": {
+    "zh": "非常",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "out": {
+    "zh": "在外；出去",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "am": {
+    "zh": "是（be 的第一人称单数）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "over": {
+    "zh": "在……上方；超过",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "yes": {
+    "zh": "是；对",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "big": {
+    "zh": "大的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "world": {
+    "zh": "世界",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "who": {
+    "zh": "谁",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "could": {
+    "zh": "能够；可能",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "that's": {
+    "zh": "那是（that is 的缩写）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "use": {
+    "zh": "使用",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "may": {
+    "zh": "可能；可以",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "everyone": {
+    "zh": "每个人",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "never": {
+    "zh": "从不",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "great": {
+    "zh": "很好的；伟大的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "way": {
+    "zh": "方式；道路",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "now": {
+    "zh": "现在",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "someone": {
+    "zh": "某人",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "your": {
+    "zh": "你的；你们的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "part": {
+    "zh": "部分",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "up": {
+    "zh": "向上",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "right": {
+    "zh": "正确的；右边",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "always": {
+    "zh": "总是",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "please": {
+    "zh": "请",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "should": {
+    "zh": "应该",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "few": {
+    "zh": "少数的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "maybe": {
+    "zh": "也许",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "better": {
+    "zh": "更好的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "say": {
+    "zh": "说",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "lot": {
+    "zh": "大量",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "name": {
+    "zh": "名字",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "which": {
+    "zh": "哪一个；引导定语从句",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "full": {
+    "zh": "满的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "well": {
+    "zh": "好地；嗯",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "been": {
+    "zh": "是（be 的过去分词）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "ago": {
+    "zh": "……以前",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "where": {
+    "zh": "哪里",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "need": {
+    "zh": "需要",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "us": {
+    "zh": "我们（宾格）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "same": {
+    "zh": "相同的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "his": {
+    "zh": "他的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "thing": {
+    "zh": "事情；东西",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "said": {
+    "zh": "说（say 的过去式）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "high": {
+    "zh": "高的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "does": {
+    "zh": "做；助动词（第三人称单数）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "him": {
+    "zh": "他（宾格）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "hard": {
+    "zh": "困难的；努力地",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "our": {
+    "zh": "我们的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "made": {
+    "zh": "制作；使（make 的过去式）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "less": {
+    "zh": "更少",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "bad": {
+    "zh": "坏的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "also": {
+    "zh": "也",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "get": {
+    "zh": "得到；变得",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "happy": {
+    "zh": "高兴的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "tomorrow": {
+    "zh": "明天",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "life": {
+    "zh": "生活；生命",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "car": {
+    "zh": "汽车",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "these": {
+    "zh": "这些",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "soon": {
+    "zh": "很快",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "move": {
+    "zh": "移动",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "man": {
+    "zh": "男人；人",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "guess": {
+    "zh": "猜测",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "question": {
+    "zh": "问题",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "word": {
+    "zh": "单词",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "plane": {
+    "zh": "飞机",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "last": {
+    "zh": "最后的；上一个",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "wanted": {
+    "zh": "想要（want 的过去式）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "year": {
+    "zh": "年",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "anything": {
+    "zh": "任何事物",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "close": {
+    "zh": "关闭；接近",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "her": {
+    "zh": "她；她的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "months": {
+    "zh": "月（复数）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "can't": {
+    "zh": "不能（cannot 的缩写）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "hear": {
+    "zh": "听见",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "hand": {
+    "zh": "手；交给",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "them": {
+    "zh": "他们（宾格）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "something": {
+    "zh": "某事；某物",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "horse": {
+    "zh": "马",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "art": {
+    "zh": "艺术",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "pay": {
+    "zh": "支付；报酬",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "money": {
+    "zh": "钱",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "back": {
+    "zh": "回来；后面",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "really": {
+    "zh": "真的；非常",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "had": {
+    "zh": "有（have 的过去式）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "point": {
+    "zh": "点；观点",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "best": {
+    "zh": "最好的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "each": {
+    "zh": "每个",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "food": {
+    "zh": "食物",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "heart": {
+    "zh": "心；心脏",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "bring": {
+    "zh": "带来",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "happened": {
+    "zh": "发生（happen 的过去式）",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "march": {
+    "zh": "三月",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "new": {
+    "zh": "新的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "home": {
+    "zh": "家",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "water": {
+    "zh": "水",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "school": {
+    "zh": "学校",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "family": {
+    "zh": "家庭",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "help": {
+    "zh": "帮助",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "friends": {
+    "zh": "朋友",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "buy": {
+    "zh": "买",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "stop": {
+    "zh": "停止",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "before": {
+    "zh": "在……之前",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "understand": {
+    "zh": "理解",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "small": {
+    "zh": "小的",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "next": {
+    "zh": "下一个",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "want": {
+    "zh": "想要",
+    "level": "A1",
+    "phonetic": ""
+  },
+  "probably": {
+    "zh": "可能；大概",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "kids": {
+    "zh": "孩子们",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "since": {
+    "zh": "自从；因为",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "far": {
+    "zh": "远；远的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "human": {
+    "zh": "人类；人的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "note": {
+    "zh": "笔记；注意",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "experience": {
+    "zh": "经验；经历",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "companies": {
+    "zh": "公司（复数）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "energy": {
+    "zh": "能量；能源",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "else": {
+    "zh": "其他；另外",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "yet": {
+    "zh": "尚未；还",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "code": {
+    "zh": "代码；编码",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "party": {
+    "zh": "政党；聚会",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "against": {
+    "zh": "反对；对着",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "ever": {
+    "zh": "曾经",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "rate": {
+    "zh": "比率；速度",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "case": {
+    "zh": "情况；案例",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "working": {
+    "zh": "工作；运行（work 的现在分词）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "system": {
+    "zh": "系统",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "post": {
+    "zh": "帖子；发布",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "using": {
+    "zh": "使用（use 的现在分词）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "both": {
+    "zh": "两者都",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "needed": {
+    "zh": "需要的；需要（过去式）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "you're": {
+    "zh": "你是（you are 的缩写）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "mention": {
+    "zh": "提到",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "ok": {
+    "zh": "好的；可以",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "exactly": {
+    "zh": "确切地",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "others": {
+    "zh": "其他人",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "sure": {
+    "zh": "确信的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "reason": {
+    "zh": "原因",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "highest": {
+    "zh": "最高的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "fact": {
+    "zh": "事实",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "almost": {
+    "zh": "几乎",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "times": {
+    "zh": "次数；时代",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "simply": {
+    "zh": "仅仅；简单地",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "pretty": {
+    "zh": "相当；漂亮的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "countries": {
+    "zh": "国家（复数）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "actually": {
+    "zh": "实际上",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "lower": {
+    "zh": "更低的；降低",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "birth": {
+    "zh": "出生",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "users": {
+    "zh": "用户（复数）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "lawyer": {
+    "zh": "律师",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "class": {
+    "zh": "班级；类别",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "above": {
+    "zh": "在……上面",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "technology": {
+    "zh": "技术",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "we're": {
+    "zh": "我们是（we are 的缩写）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "run": {
+    "zh": "运行；跑",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "trip": {
+    "zh": "旅行；一次往返",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "own": {
+    "zh": "自己的；拥有",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "having": {
+    "zh": "有（have 的现在分词）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "rocket": {
+    "zh": "火箭",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "fully": {
+    "zh": "完全地",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "gave": {
+    "zh": "给（give 的过去式）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "aren't": {
+    "zh": "不是（are not 的缩写）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "quite": {
+    "zh": "相当；完全",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "enough": {
+    "zh": "足够",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "away": {
+    "zh": "离开；远离",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "flight": {
+    "zh": "飞行；航班",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "wrote": {
+    "zh": "写（write 的过去式）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "line": {
+    "zh": "行；线",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "share": {
+    "zh": "分享；份额",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "mean": {
+    "zh": "意思是",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "what's": {
+    "zh": "什么是（what is 的缩写）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "safe": {
+    "zh": "安全的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "fan": {
+    "zh": "爱好者；风扇",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "getting": {
+    "zh": "得到；变得（get 的现在分词）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "feels": {
+    "zh": "感觉（第三人称单数）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "vote": {
+    "zh": "投票；选票",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "past": {
+    "zh": "过去的；经过",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "doesn't": {
+    "zh": "不（does not 的缩写）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "funny": {
+    "zh": "有趣的；奇怪的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "often": {
+    "zh": "经常",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "try": {
+    "zh": "尝试",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "harder": {
+    "zh": "更努力地；更困难的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "public": {
+    "zh": "公众；公开的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "company": {
+    "zh": "公司",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "giving": {
+    "zh": "给予（give 的现在分词）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "deep": {
+    "zh": "深的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "leading": {
+    "zh": "领先的；领导（现在分词）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "road": {
+    "zh": "道路",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "thanks": {
+    "zh": "谢谢",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "while": {
+    "zh": "当……时；然而",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "thinking": {
+    "zh": "思考（think 的现在分词）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "seem": {
+    "zh": "似乎",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "vehicles": {
+    "zh": "车辆（复数）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "lose": {
+    "zh": "失去",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "per": {
+    "zh": "每；按",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "done": {
+    "zh": "做完的（do 的过去分词）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "coming": {
+    "zh": "到来（come 的现在分词）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "flying": {
+    "zh": "飞行（fly 的现在分词）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "pushed": {
+    "zh": "推迟；推动（过去式）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "test": {
+    "zh": "测试",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "passed": {
+    "zh": "通过（过去式）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "eats": {
+    "zh": "吃（第三人称单数）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "uses": {
+    "zh": "使用（第三人称单数）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "chef": {
+    "zh": "厨师",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "workers": {
+    "zh": "工人（复数）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "two": {
+    "zh": "二",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "worker": {
+    "zh": "工人",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "bag": {
+    "zh": "袋子",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "side": {
+    "zh": "一边；旁边",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "hate": {
+    "zh": "讨厌",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "mess": {
+    "zh": "混乱；乱七八糟的东西",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "modern": {
+    "zh": "现代的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "simple": {
+    "zh": "简单的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "terms": {
+    "zh": "术语；条件；方面",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "set": {
+    "zh": "一套；设置",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "tweets": {
+    "zh": "推文（复数）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "product": {
+    "zh": "产品",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "sounded": {
+    "zh": "听起来（过去式）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "running": {
+    "zh": "运行；经营（run 的现在分词）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "hurts": {
+    "zh": "疼；伤害（第三人称单数）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "design": {
+    "zh": "设计",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "similar": {
+    "zh": "相似的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "trying": {
+    "zh": "尝试（try 的现在分词）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "personal": {
+    "zh": "个人的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "choices": {
+    "zh": "选择（复数）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "scores": {
+    "zh": "得分；评分（复数）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "row": {
+    "zh": "排；行",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "donate": {
+    "zh": "捐赠",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "open": {
+    "zh": "开放的；打开",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "result": {
+    "zh": "结果",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "amazing": {
+    "zh": "令人惊讶的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "realized": {
+    "zh": "意识到（过去式）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "go": {
+    "zh": "去",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "grow": {
+    "zh": "增长；生长",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "weeks": {
+    "zh": "周（复数）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "engines": {
+    "zh": "引擎（复数）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "complete": {
+    "zh": "完整的；完成",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "sense": {
+    "zh": "感觉；意义",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "forget": {
+    "zh": "忘记",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "single": {
+    "zh": "单个的；单身的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "things": {
+    "zh": "事情（复数）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "web": {
+    "zh": "网络",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "sent": {
+    "zh": "发送（send 的过去式）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "tool": {
+    "zh": "工具",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "higher": {
+    "zh": "更高的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "although": {
+    "zh": "虽然",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "among": {
+    "zh": "在……之中",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "computer": {
+    "zh": "计算机",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "quality": {
+    "zh": "质量",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "keep": {
+    "zh": "保持",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "slow": {
+    "zh": "缓慢的",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "truth": {
+    "zh": "真相",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "nobody": {
+    "zh": "没有人",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "person": {
+    "zh": "人",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "early": {
+    "zh": "早的；提前",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "looks": {
+    "zh": "看起来",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "step": {
+    "zh": "步骤；迈步",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "imagine": {
+    "zh": "想象",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "everything": {
+    "zh": "一切",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "remember": {
+    "zh": "记住",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "happiness": {
+    "zh": "幸福",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "choice": {
+    "zh": "选择",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "perhaps": {
+    "zh": "也许",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "rest": {
+    "zh": "休息；其余",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "journey": {
+    "zh": "旅程",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "take": {
+    "zh": "拿；花费",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "future": {
+    "zh": "未来",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "again": {
+    "zh": "再一次",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "history": {
+    "zh": "历史",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "video": {
+    "zh": "视频",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "usually": {
+    "zh": "通常",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "week": {
+    "zh": "周",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "project": {
+    "zh": "项目",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "problem": {
+    "zh": "问题",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "hope": {
+    "zh": "希望",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "lost": {
+    "zh": "失去（lose 的过去式）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "works": {
+    "zh": "工作；起作用（第三人称单数）",
+    "level": "A2",
+    "phonetic": ""
+  },
+  "campaign": {
+    "zh": "活动；竞选运动",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "tax": {
+    "zh": "税；征税",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "given": {
+    "zh": "考虑到；给定的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "negative": {
+    "zh": "负面的；否定的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "basically": {
+    "zh": "基本上",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "population": {
+    "zh": "人口",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "credit": {
+    "zh": "信用；功劳；信贷",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "stuff": {
+    "zh": "东西；事情",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "actual": {
+    "zh": "实际的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "serve": {
+    "zh": "服务；起作用",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "support": {
+    "zh": "支持",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "rather": {
+    "zh": "相当；而是",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "voted": {
+    "zh": "投票（过去式）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "however": {
+    "zh": "然而",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "accurate": {
+    "zh": "准确的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "potential": {
+    "zh": "潜在的；潜力",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "humans": {
+    "zh": "人类（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "insurance": {
+    "zh": "保险",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "points": {
+    "zh": "要点；点（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "function": {
+    "zh": "功能；起作用",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "reference": {
+    "zh": "参考；提及",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "favor": {
+    "zh": "赞同；帮助",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "issues": {
+    "zh": "问题；议题",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "seems": {
+    "zh": "似乎（第三人称单数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "extremely": {
+    "zh": "极其",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "humor": {
+    "zh": "幽默",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "performance": {
+    "zh": "性能；表现",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "attacked": {
+    "zh": "攻击（过去式）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "individual": {
+    "zh": "个人；个别的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "industry": {
+    "zh": "行业",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "term": {
+    "zh": "术语；任期；期限",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "stages": {
+    "zh": "阶段（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "maximum": {
+    "zh": "最大的；最大值",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "switched": {
+    "zh": "转换（过去式）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "universe": {
+    "zh": "宇宙",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "increasing": {
+    "zh": "增加（现在分词）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "proof": {
+    "zh": "证据；检验",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "restrooms": {
+    "zh": "洗手间（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "etc": {
+    "zh": "等等",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "management": {
+    "zh": "管理；管理层",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "replacing": {
+    "zh": "替换（现在分词）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "processing": {
+    "zh": "处理（现在分词）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "vision": {
+    "zh": "视觉；愿景",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "giant": {
+    "zh": "巨大的；巨人",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "operations": {
+    "zh": "操作；运营（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "economic": {
+    "zh": "经济的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "matters": {
+    "zh": "重要；事情（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "contribute": {
+    "zh": "贡献",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "goal": {
+    "zh": "目标",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "respected": {
+    "zh": "受到尊重的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "equality": {
+    "zh": "平等",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "parties": {
+    "zh": "政党；聚会（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "elected": {
+    "zh": "当选的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "unexpected": {
+    "zh": "出乎意料的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "solid": {
+    "zh": "固体的；可靠的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "list": {
+    "zh": "列表；列出",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "installed": {
+    "zh": "安装的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "mission": {
+    "zh": "任务；使命",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "completely": {
+    "zh": "完全地",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "useless": {
+    "zh": "无用的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "opposite": {
+    "zh": "相反的；对面",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "unfortunately": {
+    "zh": "不幸地",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "intelligent": {
+    "zh": "聪明的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "constructive": {
+    "zh": "建设性的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "debates": {
+    "zh": "辩论（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "particular": {
+    "zh": "特定的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "shocked": {
+    "zh": "震惊的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "spying": {
+    "zh": "监视；从事间谍活动",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "affect": {
+    "zh": "影响",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "elections": {
+    "zh": "选举（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "members": {
+    "zh": "成员（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "attacking": {
+    "zh": "攻击（现在分词）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "cruising": {
+    "zh": "巡航；平稳行驶",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "volume": {
+    "zh": "体积；音量；产量",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "awkward": {
+    "zh": "尴尬的；难用的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "recognized": {
+    "zh": "认出的；认可的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "audience": {
+    "zh": "观众",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "achieving": {
+    "zh": "实现（现在分词）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "immediate": {
+    "zh": "立即的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "priority": {
+    "zh": "优先事项",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "surprised": {
+    "zh": "惊讶的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "hopefully": {
+    "zh": "希望；有望",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "admired": {
+    "zh": "钦佩的；被欣赏的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "offer": {
+    "zh": "提议；提供",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "agree": {
+    "zh": "同意",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "household": {
+    "zh": "家庭；家庭的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "advanced": {
+    "zh": "先进的；高级的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "responsibility": {
+    "zh": "责任",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "freedom": {
+    "zh": "自由",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "planets": {
+    "zh": "行星（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "measured": {
+    "zh": "测量的；衡量的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "realize": {
+    "zh": "意识到",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "signal": {
+    "zh": "信号；示意",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "clips": {
+    "zh": "短片；片段（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "overall": {
+    "zh": "总体的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "images": {
+    "zh": "图像（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "intentional": {
+    "zh": "故意的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "saving": {
+    "zh": "节省；拯救（现在分词）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "rules": {
+    "zh": "规则（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "documents": {
+    "zh": "文件（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "application": {
+    "zh": "应用程序；申请",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "memory": {
+    "zh": "内存；记忆",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "preventing": {
+    "zh": "阻止（现在分词）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "update": {
+    "zh": "更新",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "vulnerable": {
+    "zh": "脆弱的；易受影响的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "reach": {
+    "zh": "达到；到达",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "individuals": {
+    "zh": "个人（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "spending": {
+    "zh": "支出；花费（现在分词）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "position": {
+    "zh": "职位；位置；头寸",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "claiming": {
+    "zh": "声称（现在分词）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "global": {
+    "zh": "全球的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "warming": {
+    "zh": "变暖",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "fear": {
+    "zh": "恐惧",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "stories": {
+    "zh": "故事；报道（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "cause": {
+    "zh": "导致；原因",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "behavior": {
+    "zh": "行为",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "following": {
+    "zh": "以下的；跟随（现在分词）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "poverty": {
+    "zh": "贫困",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "providing": {
+    "zh": "提供（现在分词）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "provide": {
+    "zh": "提供",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "entire": {
+    "zh": "整个的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "costs": {
+    "zh": "成本；花费",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "remote": {
+    "zh": "偏远的；远程的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "hospital": {
+    "zh": "医院",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "manufacturing": {
+    "zh": "制造业；制造（现在分词）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "plant": {
+    "zh": "工厂；植物",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "location": {
+    "zh": "位置",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "service": {
+    "zh": "服务",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "approval": {
+    "zh": "批准",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "improvements": {
+    "zh": "改进（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "engineering": {
+    "zh": "工程",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "learned": {
+    "zh": "学习（过去式）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "comments": {
+    "zh": "评论（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "delete": {
+    "zh": "删除",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "action": {
+    "zh": "行动",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "based": {
+    "zh": "基于的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "cash": {
+    "zh": "现金",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "resources": {
+    "zh": "资源（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "curious": {
+    "zh": "好奇的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "consuming": {
+    "zh": "消耗（现在分词）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "reduce": {
+    "zh": "减少",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "reduces": {
+    "zh": "减少（第三人称单数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "competition": {
+    "zh": "竞争",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "winner": {
+    "zh": "获胜者",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "percentage": {
+    "zh": "百分比",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "surface": {
+    "zh": "表面",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "concerning": {
+    "zh": "关于；令人担忧的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "rates": {
+    "zh": "比率（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "remain": {
+    "zh": "保持；留下",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "generations": {
+    "zh": "世代（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "majority": {
+    "zh": "大多数",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "landed": {
+    "zh": "着陆（过去式）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "scale": {
+    "zh": "规模；尺度",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "successfully": {
+    "zh": "成功地",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "followed": {
+    "zh": "跟随（过去式）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "valuable": {
+    "zh": "有价值的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "producing": {
+    "zh": "生产（现在分词）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "fuels": {
+    "zh": "燃料（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "factory": {
+    "zh": "工厂",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "comparison": {
+    "zh": "比较",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "size": {
+    "zh": "大小",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "agreed": {
+    "zh": "同意（过去式）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "trends": {
+    "zh": "趋势（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "continue": {
+    "zh": "继续",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "replacement": {
+    "zh": "替换；补充",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "according": {
+    "zh": "根据（与 to 连用）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "threat": {
+    "zh": "威胁",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "rare": {
+    "zh": "罕见的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "exception": {
+    "zh": "例外",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "normal": {
+    "zh": "正常的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "storms": {
+    "zh": "风暴（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "flooding": {
+    "zh": "洪水；淹没",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "announced": {
+    "zh": "宣布（过去式）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "available": {
+    "zh": "可用的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "observers": {
+    "zh": "观察者（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "opportunity": {
+    "zh": "机会",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "documentary": {
+    "zh": "纪录片",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "experienced": {
+    "zh": "经历了；有经验的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "refuse": {
+    "zh": "拒绝",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "explain": {
+    "zh": "解释",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "calculate": {
+    "zh": "计算",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "suspicious": {
+    "zh": "可疑的；怀疑的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "worried": {
+    "zh": "担心的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "ignoring": {
+    "zh": "忽视（现在分词）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "confusing": {
+    "zh": "令人困惑的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "independent": {
+    "zh": "独立的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "voters": {
+    "zh": "选民（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "lawyers": {
+    "zh": "律师（复数）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "include": {
+    "zh": "包括",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "commitment": {
+    "zh": "承诺",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "victory": {
+    "zh": "胜利",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "settle": {
+    "zh": "解决；和解",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "department": {
+    "zh": "部门",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "report": {
+    "zh": "报告",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "separate": {
+    "zh": "分开的；分离",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "charged": {
+    "zh": "被指控的；收费的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "meeting": {
+    "zh": "会议",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "source": {
+    "zh": "来源",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "evidence": {
+    "zh": "证据",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "ability": {
+    "zh": "能力",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "justice": {
+    "zh": "正义；司法",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "senior": {
+    "zh": "高级的；年长的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "aware": {
+    "zh": "意识到的",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "admitted": {
+    "zh": "承认（过去式）",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "defense": {
+    "zh": "辩护；防御",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "correct": {
+    "zh": "正确的；纠正",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "criminal": {
+    "zh": "犯罪的；罪犯",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "trial": {
+    "zh": "审判；试验",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "wonder": {
+    "zh": "想知道",
+    "level": "B1",
+    "phonetic": ""
+  },
+  "incentives": {
+    "zh": "激励措施（复数）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "hoax": {
+    "zh": "骗局；恶作剧",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "payload": {
+    "zh": "有效载荷",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "bots": {
+    "zh": "机器人程序（复数）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "orbit": {
+    "zh": "轨道；绕轨道运行",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "centrist": {
+    "zh": "中间派的；中间派人士",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "candidates": {
+    "zh": "候选人（复数）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "orbital": {
+    "zh": "轨道的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "rapidly": {
+    "zh": "迅速地",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "reusable": {
+    "zh": "可重复使用的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "candidate": {
+    "zh": "候选人",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "prominent": {
+    "zh": "突出的；知名的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "reliably": {
+    "zh": "可靠地",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "unionized": {
+    "zh": "已加入工会的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "civilization": {
+    "zh": "文明",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "critics": {
+    "zh": "批评者（复数）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "seek": {
+    "zh": "寻求",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "labeling": {
+    "zh": "贴标签；标注",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "prototype": {
+    "zh": "原型；样机",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "executive": {
+    "zh": "高管；管理层的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "compile": {
+    "zh": "编译；汇编",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "illustrate": {
+    "zh": "说明；阐明",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "recessions": {
+    "zh": "经济衰退（复数）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "vital": {
+    "zh": "至关重要的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "accelerate": {
+    "zh": "加速",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "primaries": {
+    "zh": "党内初选（复数）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "encounter": {
+    "zh": "遇到",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "fraudulent": {
+    "zh": "欺诈的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "humble": {
+    "zh": "谦逊的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "nonsense": {
+    "zh": "胡说；无意义的东西",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "claimed": {
+    "zh": "声称（过去式）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "snippet": {
+    "zh": "小片段；代码片段",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "crossfire": {
+    "zh": "交叉火力；争斗波及",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "hesitate": {
+    "zh": "犹豫",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "admit": {
+    "zh": "承认",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "otherwise": {
+    "zh": "否则；在其他方面",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "distressing": {
+    "zh": "令人痛苦的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "alternate": {
+    "zh": "替代的；交替",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "presidential": {
+    "zh": "总统的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "charities": {
+    "zh": "慈善机构（复数）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "corporation": {
+    "zh": "公司；法人",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "sidelining": {
+    "zh": "排挤；使靠边站",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "hesitant": {
+    "zh": "犹豫的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "relies": {
+    "zh": "依赖（第三人称单数）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "intuitive": {
+    "zh": "直觉的；易懂的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "pivotal": {
+    "zh": "关键的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "selfless": {
+    "zh": "无私的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "anonymous": {
+    "zh": "匿名的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "undermined": {
+    "zh": "削弱（过去式）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "administration": {
+    "zh": "政府；管理部门",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "implicit": {
+    "zh": "隐含的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "maximize": {
+    "zh": "最大化",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "utility": {
+    "zh": "效用；实用性",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "manipulation": {
+    "zh": "操纵",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "unprovoked": {
+    "zh": "无端的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "preserve": {
+    "zh": "保存；维护",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "chronological": {
+    "zh": "按时间顺序的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "consciousness": {
+    "zh": "意识",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "astounding": {
+    "zh": "令人惊叹的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "renewable": {
+    "zh": "可再生的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "generation": {
+    "zh": "发电；一代",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "credibility": {
+    "zh": "可信度",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "suspect": {
+    "zh": "怀疑；嫌疑人",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "algorithm": {
+    "zh": "算法",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "optimizing": {
+    "zh": "优化（现在分词）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "fragmentation": {
+    "zh": "碎片化",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "mounting": {
+    "zh": "挂载；增加的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "patch": {
+    "zh": "补丁；修补",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "filesystem": {
+    "zh": "文件系统",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "advisable": {
+    "zh": "可取的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "advertising": {
+    "zh": "广告宣传",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "scapegoat": {
+    "zh": "替罪羊",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "conscience": {
+    "zh": "良心",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "ironically": {
+    "zh": "讽刺地",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "charitable": {
+    "zh": "慈善的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "deduction": {
+    "zh": "扣除；推断",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "inherently": {
+    "zh": "固有地；本质上",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "bankruptcies": {
+    "zh": "破产（复数）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "probability": {
+    "zh": "概率",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "effective": {
+    "zh": "有效的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "capital": {
+    "zh": "资本；首都",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "ownership": {
+    "zh": "所有权",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "judgment": {
+    "zh": "判断",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "barrier": {
+    "zh": "障碍",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "licensing": {
+    "zh": "许可；发放执照",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "impulses": {
+    "zh": "冲动（复数）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "precise": {
+    "zh": "精确的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "consumer": {
+    "zh": "消费者",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "concentrated": {
+    "zh": "集中的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "civilizations": {
+    "zh": "文明（复数）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "deployed": {
+    "zh": "部署（过去式）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "sequences": {
+    "zh": "序列（复数）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "storage": {
+    "zh": "存储",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "exceeds": {
+    "zh": "超过（第三人称单数）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "fossil": {
+    "zh": "化石的；化石",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "experiencing": {
+    "zh": "经历（现在分词）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "contrary": {
+    "zh": "相反的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "connectivity": {
+    "zh": "连接能力",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "warranty": {
+    "zh": "保修",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "legally": {
+    "zh": "合法地",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "antenna": {
+    "zh": "天线",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "attendant": {
+    "zh": "服务员；伴随的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "moreover": {
+    "zh": "此外",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "astronauts": {
+    "zh": "宇航员（复数）",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "proportionate": {
+    "zh": "成比例的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "perceived": {
+    "zh": "感知到的；被认为的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "fabricated": {
+    "zh": "捏造的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "interference": {
+    "zh": "干预；干扰",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "corruption": {
+    "zh": "腐败",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "unjust": {
+    "zh": "不公正的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "litigation": {
+    "zh": "诉讼",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "initiate": {
+    "zh": "发起",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "execute": {
+    "zh": "执行",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "exceptional": {
+    "zh": "杰出的；例外的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "undergoing": {
+    "zh": "正在经历",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "elaborate": {
+    "zh": "精心设计的；详尽的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "implied": {
+    "zh": "暗示的",
+    "level": "B2",
+    "phonetic": ""
+  },
+  "heuristics": {
+    "zh": "启发式方法（复数）",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "bloated": {
+    "zh": "臃肿的",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "fruition": {
+    "zh": "实现；成果",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "natively": {
+    "zh": "原生地",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "vigilant": {
+    "zh": "警惕的",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "irreverence": {
+    "zh": "不敬；不拘礼俗",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "tribalism": {
+    "zh": "部落意识；派系主义",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "demonizing": {
+    "zh": "妖魔化",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "sublime": {
+    "zh": "极佳的；崇高的",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "reusability": {
+    "zh": "可重复使用性",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "sentience": {
+    "zh": "感知能力",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "societal": {
+    "zh": "社会的",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "hubris": {
+    "zh": "狂妄自大",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "stewards": {
+    "zh": "管理者；受托管理人（复数）",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "pejorative": {
+    "zh": "贬义的",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "homicide": {
+    "zh": "杀人；杀人罪",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "homicidal": {
+    "zh": "杀人的；有杀人倾向的",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "supersonic": {
+    "zh": "超音速的",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "vetted": {
+    "zh": "审查过的",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "negation": {
+    "zh": "否定",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "lossless": {
+    "zh": "无损的",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "astute": {
+    "zh": "敏锐的；精明的",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "disincentive": {
+    "zh": "抑制因素",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "collusion": {
+    "zh": "串通；共谋",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "magnitude": {
+    "zh": "量级；规模",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "thrive": {
+    "zh": "兴旺；蓬勃发展",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "cryogenic": {
+    "zh": "低温的；低温技术的",
+    "level": "C1",
+    "phonetic": ""
+  },
+  "tesla": {
+    "zh": "特斯拉",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "spacex": {
+    "zh": "SpaceX（太空探索技术公司）",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "starlink": {
+    "zh": "星链",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "starship": {
+    "zh": "星舰",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "optimus": {
+    "zh": "Optimus（特斯拉机器人）",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "twitter": {
+    "zh": "Twitter（社交平台，现名 X）",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "dogecoin": {
+    "zh": "狗狗币",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "python": {
+    "zh": "Python（编程语言）",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "clinton": {
+    "zh": "克林顿（姓氏）",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "russia": {
+    "zh": "俄罗斯",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "china": {
+    "zh": "中国",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "earth": {
+    "zh": "地球",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "mars": {
+    "zh": "火星",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "november": {
+    "zh": "十一月",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "ai": {
+    "zh": "AI（人工智能缩写）",
+    "level": "专有名词",
+    "phonetic": ""
+  },
+  "ceo": {
+    "zh": "CEO（首席执行官缩写）",
+    "level": "专有名词",
+    "phonetic": ""
   }
 }
