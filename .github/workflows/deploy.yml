@@ -22,7 +22,7 @@ jobs:
         run: |
           python3 -m unittest discover -s tests
           python3 scripts/build_data.py
-          git diff --exit-code -- data/words.json
+          git diff --exit-code -- data/
           node --check app.js
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
